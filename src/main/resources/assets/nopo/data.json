@@ -307,6 +307,15 @@
       "emojis": [
         "flushed"
       ]
+    },
+    {
+      "name": "Manki_Ninja",
+      "uuid": "4938da03-c102-4358-ba1b-74782c1a00bd",
+      "emojis": [
+        "mouse_three_button",
+        "x",
+        "arrow_left"
+      ]
     }
   ]
 }
